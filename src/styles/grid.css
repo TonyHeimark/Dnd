@@ -1,0 +1,15 @@
+.item {
+  background-color: firebrick;
+  max-height: 500px !important;
+}
+
+.text {
+  max-height: 500px;
+}
+
+.wrapper {
+  margin-top: 100px;
+  background-color: darkslategray;
+  height: 500px;
+  max-height: 500px;
+}

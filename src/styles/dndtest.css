@@ -1,0 +1,21 @@
+.wrapper {
+  width: 100%;
+  padding: 32px;
+  display: flex;
+  justify-content: center;
+}
+
+.droppable {
+  background-color: #555;
+  width: 250px;
+  height: 400px;
+  margin: 32px;
+}
+
+.item {
+  padding: 8px;
+  color: #555555;
+  background-color: #fff;
+  border-radius: 3px;
+  margin: 8px;
+}
